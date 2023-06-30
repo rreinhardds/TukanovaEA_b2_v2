@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TukanovaEA_02_02</string>
+    <string name="Title">Конвертер единиц информации</string>
+    <string name="Second_Title">Выбор единиц информации</string>
+    <string name="number_entry">введите число</string>
+
+</resources>
